@@ -1,4 +1,4 @@
-# Wafer Fault Detection
+# Cement Strength Prediction
 
 ## Table Content
 - Introduction
