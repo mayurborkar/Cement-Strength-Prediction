@@ -29,9 +29,20 @@ mixture.
 ## Data Description
 ```
 The given model is regression model because of the target variable is continous value. The input 
-parameter are given are as follow
+parameter are given are as follow. Total 9 feature are given out of that only
+8 are the input feature aur input attribute and last one is target feature that
+we have to predicted by using regression algorithem.
+1. Cement
+2. Blast Furance Slag
+3. Fly Ash
+4. Water
+5. Super-Plasticizer
+6. Coarse-Aggregate
+7. Fine-Aggregate
+8. Age
+9. Concrete Compressive Strength
 ```
-![img_1.png](Images/Capture.png)
+
 
 ## Data Validation
 ```
